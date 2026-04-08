@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoGalleryApp</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="open_gallery">Open Gallery Folder</string>
+    <string name="delete_image">Delete Image</string>
+    <string name="image_desc">Captured photo</string>
+    <string name="choose_folder">Choose Folder</string>
+</resources>
